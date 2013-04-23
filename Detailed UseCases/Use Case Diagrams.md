@@ -1,9 +1,9 @@
 # Detailed Use Cases
 
 
-<img src="Detailed-Images/usecaseOne.png" > <br>
+<img src="Detailed-Images/usecaseone.png" > <br>
 
-<img src="images/UC2.png" > <br>
+<img src="Detailed-Images/uc.png" > <br>
 
 <img src="images/UC3.png" > <br>
 
