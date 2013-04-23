@@ -1,6 +1,6 @@
 # Detailed Use Cases
 
-![Image](Detailed-Images/usecaseOne.png?raw=true)
+![Image](Detailed-Images/usecaseOne.jpg?raw=true)
 <img src="Detailed-Images/usecaseOne.png"> <br>
 
 <img src="Detailed UseCases/images/UC2.png"> <br>
