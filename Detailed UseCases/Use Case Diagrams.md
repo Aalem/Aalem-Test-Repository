@@ -3,7 +3,7 @@
 ![Image](Detailed-Images/usecaseOne.png?raw=true)
 <img src="Detailed-Images/usecaseOne.png"> <br>
 
-<img src="images/UC2.png"> <br>
+<img src="Detailed UseCases/images/UC2.png"> <br>
 ![Image](Detailed-Images/UC2.png?raw=true)
 
 <img src="images/UC3.png" > <br>
