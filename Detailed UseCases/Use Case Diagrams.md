@@ -1,7 +1,7 @@
 # Detailed Use Cases
 
 
-<img src="./Detailed-Images/usecaseone.png" > <br>
+<img src="https://github.com/Aalem/Aalem-Test-Repository/blob/master/Detailed%20UseCases/Detailed-Images/usecaseOne.PNG" > <br>
 
 <img src="Detailed-Images/uc.png" > <br>
 
