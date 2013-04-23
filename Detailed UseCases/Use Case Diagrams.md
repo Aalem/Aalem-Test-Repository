@@ -1,7 +1,7 @@
 # Detailed Use Cases
 
 
-<img src="Detailed-Images/usecaseone.png" > <br>
+<img src="Detailed UseCases/Detailed-Images/usecaseone.png" > <br>
 
 <img src="Detailed-Images/uc.png" > <br>
 
